@@ -13,7 +13,7 @@
         <activity android:name=".helloworld2" />
         <activity
             android:name=".helloworld1"
-            android:launchMode="singleTask"
+            android:launchMode="singleInstance"
             >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
