@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE manifest [<!ELEMENT manifest (application)*><!ATTLIST manifestxmlns:android CDATA #REQUIREDpackage CDATA #REQUIRED><!ELEMENT application (activity)*><!ATTLIST applicationandroid:allowBackup CDATA #REQUIREDandroid:icon CDATA #REQUIREDandroid:label CDATA #REQUIREDandroid:roundIcon CDATA #REQUIREDandroid:supportsRtl CDATA #REQUIREDandroid:theme CDATA #REQUIRED><!ELEMENT activity (intent-filter)*><!ATTLIST activityandroid:launchMode CDATA #IMPLIEDandroid:name CDATA #REQUIRED><!ELEMENT intent-filter (action|category)*><!ELEMENT action (#PCDATA)><!ATTLIST actionandroid:name CDATA #REQUIRED><!ELEMENT category (#PCDATA)><!ATTLIST categoryandroid:name CDATA #REQUIRED>]>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.helloworld">
 
