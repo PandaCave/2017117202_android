@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".thirdActivity" android:label="helloworld3"></activity>
         <activity android:name=".secondActivity" android:label="helloworld2"/>
-        <activity android:name=".MainActivity" android:launchMode="standard">
+            <activity android:name=".MainActivity" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
