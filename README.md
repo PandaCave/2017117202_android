@@ -1,4 +1,9 @@
+
+
+![Image text](https://raw.githubusercontent.com/sparkemm/2017117202_android/master/img-folder/android.png)
+
 # 2017117202_android
+
 余贵亮的移动开发作业
 
 作业一:helloword2
